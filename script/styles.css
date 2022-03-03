@@ -31,7 +31,7 @@ a {
 /* hero background image */
 .bgimage {
   height:100vh;
-  background: url(/script/EduardoPic1.jpg);
+  background: url(../images/EduardoPic1.jpgg);
   background-size:cover;
   position:relative;
 }
